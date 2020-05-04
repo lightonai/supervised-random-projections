@@ -10,3 +10,9 @@ This repository provides a unified implementation of SPCA, KSPCA, SRP and KSRP. 
 - `sonar_viz.py` shows how to use this code for visualizing the Sonar dataset.
 
 The Ionosphere and Sonar dataset come from the UCI repository. They are tiny, so I included them in the `data` folder for convenience.
+
+## Access to Optical Processing Units
+
+To request access to LightOn Cloud and try our photonic co-processor, please visit: https://cloud.lighton.ai/
+
+For researchers, we also have a LightOn Cloud for Research program, please visit https://cloud.lighton.ai/lighton-research/ for more information.
